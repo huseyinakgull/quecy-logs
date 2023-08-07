@@ -6,5 +6,10 @@ FiveM sunucum için oyuncuların istediğim bilgilerine erişmemi sağlayan sist
 - Tarih
 - Saat
 - Kordinat
+- Sağlık
+- ...
 
 ![image](https://github.com/thatsquecy/quecy-logs/assets/48627621/b5841fb9-5c6d-44e0-89cc-2041a56afcae)
+
+# Scriptlerin içerisine nasıl eklenir?
+- TriggerServerEvent("logGonder:event", "Buraya mesaj gelecek.")
